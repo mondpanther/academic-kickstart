@@ -14,7 +14,7 @@ role: Postdoctoral Researcher LSE
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
+- name: London School of Economics and Political Science
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
